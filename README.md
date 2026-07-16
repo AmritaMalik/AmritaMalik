@@ -50,5 +50,4 @@
 
 GitHub: https://github.com/AmritaMalik  
 LinkedIn:https://www.linkedin.com/in/amrita-malik-2007am/ 
-
 Email: codewithamrita@gmail.com  
