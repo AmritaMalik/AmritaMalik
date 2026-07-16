@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amrita Malik
+#  Hi, I'm Amrita Malik
 
 🚀 **Futuristic Web Developer | UI/UX Explorer | AI & 3D Web Enthusiast**
 
