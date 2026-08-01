@@ -1,45 +1,39 @@
 <div align="center">
 
-<!-- ═══════════════════════════ HERO BANNER (original SVG, no third-party render service) ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/banner.svg" width="100%" alt="Amrita Malik — AI Engineer, Full Stack Developer, Computer Vision, Cloud"/>
+<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=AMRITA%20MALIK&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision%20%7C%20Cloud&descAlignY=55&descSize=18&descColor=B79CED&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════════════════ TYPING SVG ═══════════════════════════ -->
 <a href="https://github.com/AmritaMalik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Amrita+Malik+%F0%9F%91%8B;AI+Engineer+%7C+Computer+Vision+Enthusiast;Google+Cloud+Learner+%E2%98%81%EF%B8%8F;Open+Source+Contributor;Building+AI+for+Accessibility+%E2%99%BF;Hackathon+Builder+%F0%9F%9A%80" alt="Rotating tagline: AI Engineer, Computer Vision Enthusiast, Cloud Learner, Open Source Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Amrita+Malik+%F0%9F%91%8B;AI+Engineer+%7C+Computer+Vision+Enthusiast;Google+Cloud+Learner+%E2%98%81%EF%B8%8F;Open+Source+Contributor;Building+AI+for+Accessibility+%E2%99%BF;Hackathon+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-online-39FF14?style=for-the-badge&labelColor=0F0C29&logo=statuspage&logoColor=39FF14" alt="Status: online"/>
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(Hons.)-2nd%20Year-9D4EDD?style=for-the-badge&labelColor=0F0C29" alt="B.Tech CSE Hons, 2nd year"/>
-<img src="https://img.shields.io/badge/PIET-Panipat-00B4D8?style=for-the-badge&labelColor=0F0C29" alt="PIET, Panipat"/>
-
-<br/><br/>
-
-<!-- quick-nav -->
-<a href="#-about-me">About</a> •
-<a href="#️-tech-arsenal">Tech Stack</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-github-analytics">Stats</a> •
-<a href="#-contribution-snake">Snake</a> •
-<a href="#️-github-trophies">Trophies</a> •
-<a href="#-current-goals">Goals</a>
+<img src="https://img.shields.io/badge/status-online-39FF14?style=for-the-badge&labelColor=0F0C29&logo=statuspage&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(Hons.)-2nd%20Year-9D4EDD?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/PIET-Panipat-00B4D8?style=for-the-badge&labelColor=0F0C29"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D4EDD&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════ PROFILE + SOCIALS ═══════════════════════════ -->
 <table align="center">
 <tr>
 <td width="38%" align="center">
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/hero-illustration.svg" width="300" alt="Vector illustration of a developer working at a laptop with a neural-network hologram above the screen"/>
+<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/hero-illustration.svg" width="320" alt="AI developer illustration"/>
+
+<sub><i>💡 Replace <code>assets/hero-illustration.svg</code> with a vector "female developer + hologram + laptop" illustration — see the <b>Setup Notes</b> section at the bottom for free professional-vector sources (Storyset / unDraw), since original artwork can't be shipped pre-made here.</i></sub>
 
 </td>
 <td width="62%">
 
-```python
+```yaml
 class AmritaMalik:
     def __init__(self):
         self.name        = "Amrita Malik"
@@ -67,9 +61,9 @@ class AmritaMalik:
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:39FF14&height=3&section=header" width="100%"/>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 ## 🧬 About Me
 
 <table>
@@ -112,23 +106,33 @@ class AmritaMalik:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D4EDD&height=3&section=header" width="100%"/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## 🛠️ Tech Arsenal
 
-<table width="100%">
-<tr><td width="22%"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" alt="Python, C, C++, JavaScript, HTML, CSS"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js&theme=dark" alt="React, Node.js, HTML, CSS, JavaScript"/></td></tr>
-<tr><td><b>AI / Computer Vision</b></td><td>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark" alt="TensorFlow, OpenCV, Python"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white&labelColor=0F0C29" alt="MediaPipe"/>
-</td></tr>
-<tr><td><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform"/></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/></td></tr>
-</table>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" />
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+**Frontend & Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js&theme=dark" />
+
+**AI / Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white&labelColor=0F0C29" />
+
+**Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:00B4D8&height=3&section=header" width="100%"/>
 
 <!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
 ## 💎 Featured Projects
@@ -137,7 +141,7 @@ class AmritaMalik:
 <tr>
 <td width="50%" valign="top">
 
-### 🕶️ SignBridge AI
+### 🕶️ [SignBridge AI](https://github.com/AmritaMalik/SignBridge-AI)
 **AI smart glasses for Indian Sign Language → Speech**
 
 Real-time computer-vision pipeline that recognizes Indian Sign Language gestures and converts them to speech and text, running on embedded hardware for genuine accessibility impact.
@@ -148,12 +152,10 @@ Real-time computer-vision pipeline that recognizes Indian Sign Language gestures
 ![Highlight](https://img.shields.io/badge/Highlight-Speech%E2%86%94Text%20Pipeline-9D4EDD?style=flat-square&labelColor=0F0C29)
 ![Highlight](https://img.shields.io/badge/Focus-Accessibility-00B4D8?style=flat-square&labelColor=0F0C29)
 
-[![Repo](https://img.shields.io/badge/Repository-View-181717?style=flat-square&logo=github)](https://github.com/AmritaMalik/SignBridge-AI)
-
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
+### 🌐 [Portfolio Website](https://amrita-malik-portfolio.vercel.app/)
 **Personal developer portfolio**
 
 A responsive, modern portfolio showcasing projects, skills, and experience — deployed on Vercel.
@@ -162,8 +164,6 @@ A responsive, modern portfolio showcasing projects, skills, and experience — d
 
 ![Highlight](https://img.shields.io/badge/Deployed-Vercel-39FF14?style=flat-square&labelColor=0F0C29)
 ![Highlight](https://img.shields.io/badge/Design-Responsive-9D4EDD?style=flat-square&labelColor=0F0C29)
-
-[![Live Demo](https://img.shields.io/badge/Demo-Visit-9D4EDD?style=flat-square&logo=vercel)](https://amrita-malik-portfolio.vercel.app/)
 
 </td>
 </tr>
@@ -188,7 +188,7 @@ Built the official web presence for a regional AWS community event — covering 
 
 A clean utility application that calculates grades/GPA — built to sharpen core logic and UI fundamentals.
 
-`Python` `JavaScript`
+`Python` / `JavaScript`
 
 ![Highlight](https://img.shields.io/badge/Type-Utility%20App-9D4EDD?style=flat-square&labelColor=0F0C29)
 ![Highlight](https://img.shields.io/badge/Focus-Core%20Logic-39FF14?style=flat-square&labelColor=0F0C29)
@@ -197,103 +197,97 @@ A clean utility application that calculates grades/GPA — built to sharpen core
 </tr>
 </table>
 
-<sub>🔗 Repo links point to <code>github.com/AmritaMalik/&lt;repo-name&gt;</code> — update any that don't match your actual repo names yet.</sub>
+<sub>🔗 Update each project heading link above to the exact repo URL once pushed — placeholders point to <code>github.com/AmritaMalik/&lt;repo-name&gt;</code>.</sub>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:39FF14&height=3&section=header" width="100%"/>
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmritaMalik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=9D4EDD&text_color=C9D1D9&ring_color=39FF14" alt="Amrita's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritaMalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmritaMalik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=9D4EDD&text_color=C9D1D9&ring_color=39FF14"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritaMalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaMalik&theme=tokyonight&hide_border=true&background=0D1117&stroke=39FF14&ring=9D4EDD&fire=39FF14&currStreakLabel=39FF14" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaMalik&theme=tokyonight&hide_border=true&background=0D1117&stroke=39FF14&ring=9D4EDD&fire=39FF14&currStreakLabel=39FF14"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritaMalik&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=39FF14&line=9D4EDD&point=ffffff&area=true&area_color=9D4EDD" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritaMalik&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=39FF14&line=9D4EDD&point=ffffff&area=true&area_color=9D4EDD"/>
 
 </div>
 
-<details>
-<summary><b>📈 Full metrics dashboard</b> (languages, habits, community — generated daily by <code>metrics.yml</code>)</summary>
-<br/>
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00B4D8&height=3&section=header" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/metrics.svg" width="100%" alt="Detailed metrics dashboard"/>
-
-</div>
-</details>
-
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<!-- ═══════════════════════════ SNAKE ANIMATION ═══════════════════════════ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake.svg" width="100%" alt="A snake animation eating through my GitHub contribution grid"/>
-</picture>
+<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
 
-<sub>Generated automatically by <code>.github/workflows/snake.yml</code> — see Setup Notes below.</sub>
+<sub>Generated automatically by the <code>snake.yml</code> workflow below — see <b>Setup Notes</b> to activate it.</sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:39FF14&height=3&section=header" width="100%"/>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmritaMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmritaMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:9D4EDD&height=3&section=header" width="100%"/>
 
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 ## 🎖️ Achievements & Roadmap
 
 <table width="100%">
-<tr><td width="20%" align="center"><b>☁️ Cloud</b></td><td>Actively pursuing the <b>Google Cloud</b> learning track toward certification</td></tr>
-<tr><td align="center"><b>🧑‍💻 Open Source</b></td><td>Building toward first meaningful contributions to accessibility-focused OSS repos</td></tr>
-<tr><td align="center"><b>🏆 Hackathons</b></td><td>Targeting <b>Smart India Hackathon</b> with SignBridge AI as the flagship submission</td></tr>
-<tr><td align="center"><b>📚 Learning</b></td><td>Deepening React, Node.js, Deep Learning, Data Structures & System Design</td></tr>
-<tr><td align="center"><b>🎓 Certifications</b></td><td>Google Cloud certification — in progress</td></tr>
+<tr>
+<td width="20%" align="center"><b>☁️ Cloud</b></td>
+<td>Actively pursuing the <b>Google Cloud</b> learning track toward certification</td>
+</tr>
+<tr>
+<td align="center"><b>🧑‍💻 Open Source</b></td>
+<td>Building toward first meaningful contributions to accessibility-focused OSS repos</td>
+</tr>
+<tr>
+<td align="center"><b>🏆 Hackathons</b></td>
+<td>Targeting <b>Smart India Hackathon</b> with SignBridge AI as the flagship submission</td>
+</tr>
+<tr>
+<td align="center"><b>📚 Learning</b></td>
+<td>Deepening React, Node.js, Deep Learning, Data Structures & System Design</td>
+</tr>
+<tr>
+<td align="center"><b>🎓 Certifications</b></td>
+<td>Google Cloud certification — in progress</td>
+</tr>
 </table>
 
 ### 🗺️ Roadmap
 
 ```mermaid
-graph LR
-    A[Now: SignBridge AI v1] --> B[Strengthen DSA & System Design]
-    B --> C[Google Cloud Certification]
-    C --> D[Smart India Hackathon]
-    D --> E[First Open-Source Contributions]
-    E --> F[Software Engineering Internship]
-    F --> G[Deepen Deep Learning & MLOps]
-
-    style A fill:#0F0C29,stroke:#39FF14,color:#39FF14
-    style B fill:#0F0C29,stroke:#9D4EDD,color:#B79CED
-    style C fill:#0F0C29,stroke:#9D4EDD,color:#B79CED
-    style D fill:#0F0C29,stroke:#00B4D8,color:#00B4D8
-    style E fill:#0F0C29,stroke:#00B4D8,color:#00B4D8
-    style F fill:#0F0C29,stroke:#39FF14,color:#39FF14
-    style G fill:#0F0C29,stroke:#39FF14,color:#39FF14
+timeline
+    title Amrita's Builder Roadmap
+    2026 Q1-Q2 : Ship SignBridge AI v1
+               : Strengthen DSA & System Design
+    2026 Q3    : Google Cloud Certification
+               : Smart India Hackathon
+    2026 Q4    : First open-source contributions
+               : Software Engineering Internship
+    2027       : Deepen Deep Learning & MLOps
 ```
 
-<sub>Using a flowchart instead of a Mermaid <code>timeline</code> here — GitHub's built-in Mermaid renderer doesn't reliably support the newer <code>timeline</code> diagram type yet, and <code>graph LR</code> is broadly supported. Update the milestone labels each quarter so the roadmap doesn't go stale.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D4EDD&height=3&section=header" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
-
-<!-- ═══════════════════════════ GOALS ═══════════════════════════ -->
+<!-- ═══════════════════════════ CURRENT GOALS ═══════════════════════════ -->
 ## 🎯 Current Goals
 
 - [ ] 🤖 Build impactful AI applications
@@ -302,14 +296,14 @@ graph LR
 - [ ] 🏆 Win Smart India Hackathon
 - [ ] 💼 Land a Software Engineering Internship
 
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:00B4D8&height=3&section=header" width="100%"/>
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 <div align="center">
 
 ## 💬 Developer Quote
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=B79CED&center=true&vCenter=true&width=800&lines=%22Code+is+how+I+turn+empathy+into+something+that+ships.%22" alt="Quote: Code is how I turn empathy into something that ships."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=B79CED&center=true&vCenter=true&width=800&lines=%22Code+is+how+I+turn+empathy+into+something+that+ships.%22" alt="quote"/>
 
 <sub>— Amrita Malik</sub>
 
@@ -324,29 +318,30 @@ graph LR
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=24&fontColor=39FF14&animation=twinkling"/>
 
 ---
 
 <details>
-<summary><b>⚙️ Setup Notes (click to expand)</b></summary>
+<summary><b>⚙️ Setup Notes (click to expand) — what to configure before this goes live</b></summary>
 
 ### 1. Repo requirements
-This README is designed for a **profile repo**: a repo named exactly `AmritaMalik` (matching the username), with this file at its root as `README.md`.
+This README is designed for a **profile repo**: create a repo named exactly `AmritaMalik` (matching the GitHub username) and put this file at its root as `README.md`.
 
-### 2. Assets
-All custom SVGs (`banner.svg`, `hero-illustration.svg`, `divider.svg`, `footer.svg`) live in `assets/` in **this repo** and are pulled via `raw.githubusercontent.com`, so nothing needs to be hosted elsewhere. If you rename the repo or branch, update those URLs.
+### 2. Hero illustration
+`assets/hero-illustration.svg` is referenced but not bundled here (no ready-made "professional vector, not anime/cartoon, female developer + hologram + laptop" asset exists as a public URL to link to). Two ways to get one:
+- Download a free vector from **Storyset** (storyset.com, search "developer" / "artificial intelligence", recolor to purple/matrix-green) or **unDraw** (undraw.co) and save it as `assets/hero-illustration.svg` in this repo.
+- Or commission/generate a custom illustration and drop it in the same path — the README will pick it up automatically since it points at your own repo's `assets/` folder.
 
-### 3. Snake workflow
-`.github/workflows/snake.yml` generates the contribution snake on the `output` branch. In **Settings → Actions → General → Workflow permissions**, make sure "Read and write permissions" is selected, or the push step will fail with a 403.
+### 3. Activate the Snake animation
+Add the workflow file below at `.github/workflows/snake.yml`, then push once to `main` — GitHub Actions will generate the animated SVG on an `output` branch automatically (already wired into the README above).
 
-### 4. Metrics workflow
-`.github/workflows/metrics.yml` runs [lowlighter/metrics](https://github.com/lowlighter/metrics) and commits `assets/metrics.svg` directly — no extra hosting, and it replaces the need for several separate stat widgets with one configurable dashboard. Same permissions note as above applies.
+### 4. Stats services
+`github-readme-stats`, `github-readme-streak-stats`, `github-profile-trophy`, and `github-readme-activity-graph` are free hosted services — no setup needed beyond your username already being in the URLs (`AmritaMalik`). If any widget shows "rate limited," that's the public instance being busy; it recovers automatically, or you can self-host any of them.
 
-### 5. Stats services
-`github-readme-stats`, `github-readme-streak-stats`, `github-profile-trophy`, and `github-readme-activity-graph` are free hosted services. If one shows "rate limited," that's the shared public instance under load — it recovers on its own, or you can self-host any of them for reliability.
-
-### 6. Mermaid roadmap
-Rendered natively by GitHub. Update the six milestone labels each quarter — a roadmap with `2027` sitting untouched looks stale a year from now.
+### 5. Mermaid roadmap
+GitHub renders `mermaid` code blocks natively — no extra setup required.
 
 </details>
+
+
