@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════════ TYPING SVG ═══════════════════════════ -->
 <a href="https://github.com/AmritaMalik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Amrita+Malik+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+AI+%26+CV+Explorer;Google+Cloud+Learner+%E2%98%81%EF%B8%8F;Aspiring+Open+Source+Contributor;Building+AI+for+Accessibility+%E2%99%BF;Hackathon+Builder+%F0%9F%9A%80" alt="Rotating tagline: B.Tech CSE Student, AI and Computer Vision Explorer, Cloud Learner, Aspiring Open Source Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Amrita+Malik+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+AI+%26+CV+Explorer;Google+Cloud+Learner;Aspiring+Open+Source+Contributor;Building+AI+for+Accessibility;Hackathon+Builder" alt="Rotating tagline: B.Tech CSE Student, AI and Computer Vision Explorer, Cloud Learner, Aspiring Open Source Contributor" />
 </a>
 
 <br/>
@@ -45,11 +45,11 @@
                              "Cloud Learner", "Aspiring Full Stack Developer"]
         self.education   = "B.Tech CSE @ PIET, Panipat — 2nd Year"
         self.focus       = "Accessible AI • Computer Vision • Cloud"
-        self.currently   = "Prototyping SignBridge AI 🕶️ (concept stage)"
-        self.location    = "Panipat, Haryana, India 🇮🇳"
+        self.currently   = "Prototyping SignBridge AI (concept stage)"
+        self.location    = "Panipat, Haryana, India"
 
     def say_hi(self):
-        print("Let's build something impactful together 🚀")
+        print("Let's build something impactful together")
 </code></pre>
 
 <div align="center">
@@ -74,14 +74,14 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎯 Current Focus</h3>
+<h3>Current Focus</h3>
 <ul>
-<li>🕶️ Prototyping <b>SignBridge AI</b> — a concept for AI smart glasses that translate Indian Sign Language in real time</li>
-<li>☁️ Learning <b>Google Cloud</b> fundamentals via Google Cloud Skills Boost</li>
-<li>🧠 Building foundations in <b>AI, Computer Vision &amp; Full Stack Development</b></li>
+<li>Prototyping <b>SignBridge AI</b> — a concept for AI smart glasses that translate Indian Sign Language in real time</li>
+<li>Learning <b>Google Cloud</b> fundamentals via Google Cloud Skills Boost</li>
+<li>Building foundations in <b>AI, Computer Vision &amp; Full Stack Development</b></li>
 </ul>
 
-<h3>🌱 Interests</h3>
+<h3>Interests</h3>
 <ul>
 <li>Computer Vision for accessibility &amp; assistive tech</li>
 <li>AI-assisted development workflows</li>
@@ -91,15 +91,15 @@
 </td>
 <td width="50%" valign="top">
 
-<h3>🚀 Mission</h3>
+<h3>Mission</h3>
 <blockquote>Build AI that removes barriers instead of creating them — technology should meet people where they are.</blockquote>
 
-<h3>⚡ Quick Facts</h3>
+<h3>Quick Facts</h3>
 <ul>
-<li>🎓 2nd Year, B.Tech CSE, PIET</li>
+<li>2nd Year, B.Tech CSE, PIET</li>
 <li>🇮🇳 Based in Panipat, Haryana</li>
-<li>🏆 Aspiring Smart India Hackathon participant</li>
-<li>☁️ Google Cloud learner-in-progress</li>
+<li>Aspiring Smart India Hackathon participant</li>
+<li>Google Cloud learner-in-progress</li>
 </ul>
 
 </td>
@@ -109,8 +109,8 @@
 <div align="center">
 
 <table>
-<tr><th>🎯 Goal</th><th>🎉 Fun Fact</th></tr>
-<tr><td>Learn to ship real, accessible AI projects</td><td>Debugs faster with lo-fi beats on 🎧</td></tr>
+<tr><th>Goal</th><th>Fun Fact</th></tr>
+<tr><td>Learn to ship real, accessible AI projects</td><td>Debugs faster with lo-fi beats on headphones</td></tr>
 <tr><td>Make first open-source contributions</td><td>Thinks in <code>git commit</code> messages</td></tr>
 <tr><td>Crack a Software Engineering internship</td><td>Pulled an all-nighter designing for a hackathon idea</td></tr>
 </table>
@@ -186,7 +186,7 @@
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/card-glow.svg" width="100%" alt=""/>
 
-<h3>🕶️ SignBridge AI</h3>
+<h3>SignBridge AI</h3>
 <p><b>Concept: AI smart glasses for Indian Sign Language → Speech</b></p>
 <p>An early-stage, concept-driven project exploring how a computer-vision pipeline could recognize Indian Sign Language gestures and convert them to speech and text — designed as a learning project to build real Computer Vision and AI skills toward a genuine accessibility tool.</p>
 <p><code>Python</code> <code>Computer Vision (Learning)</code> <code>Accessibility Tech</code></p>
@@ -202,7 +202,7 @@
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/card-glow.svg" width="100%" alt=""/>
 
-<h3>🌐 Portfolio Website</h3>
+<h3>Portfolio Website</h3>
 <p><b>Personal developer portfolio</b></p>
 <p>A personal portfolio site showcasing projects, skills, and experience — built with the web fundamentals I'm actively strengthening, and deployed on Vercel.</p>
 <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
@@ -219,7 +219,7 @@
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/card-glow.svg" width="100%" alt=""/>
 
-<h3>☁️ AWS Student Community Day Haryana</h3>
+<h3>AWS Student Community Day Haryana</h3>
 <p><b>Event website for AWS Student Community Day</b></p>
 <p>Built the official web presence for a regional AWS community event — covering schedule, speakers, and registration.</p>
 <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
@@ -233,7 +233,7 @@
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/card-glow.svg" width="100%" alt=""/>
 
-<h3>🧮 Student Grade Calculator</h3>
+<h3>Student Grade Calculator</h3>
 <p><b>Lightweight academic utility tool</b></p>
 <p>A clean utility application that calculates grades/GPA — built to sharpen core logic and UI fundamentals.</p>
 <p><code>Python</code> <code>JavaScript</code></p>
@@ -246,7 +246,7 @@
 </tr>
 </table>
 
-<sub>🔗 Repo links point to <code>github.com/AmritaMalik/&lt;repo-name&gt;</code> — update any that don't match your actual repo names yet.</sub>
+<sub>Repo links point to <code>github.com/AmritaMalik/&lt;repo-name&gt;</code> — update any that don't match your actual repo names yet.</sub>
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
 
@@ -269,7 +269,7 @@
 </div>
 
 <details>
-<summary><b>📈 Full metrics dashboard</b> (languages, habits, community — generated daily by <code>metrics.yml</code>)</summary>
+<summary><b>Full metrics dashboard</b> (languages, habits, community — generated daily by <code>metrics.yml</code>)</summary>
 <br/>
 <div align="center">
 
@@ -286,8 +286,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake.svg" width="100%" alt="A snake animation eating through my GitHub contribution grid"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/output/github-contribution-grid-snake.svg" width="100%" alt="A snake animation eating through my GitHub contribution grid"/>
 </picture>
 
 <sub>Generated automatically by <code>.github/workflows/snake.yml</code> — see Setup Notes below if this looks broken.</sub>
@@ -301,7 +301,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmritaMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AmritaMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
 
@@ -311,14 +311,14 @@
 ## <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/chip.svg" width="22" valign="middle"/> Achievements & Roadmap
 
 <table width="100%">
-<tr><td width="20%" align="center"><b>☁️ Cloud</b></td><td>Actively pursuing the <b>Google Cloud Skills Boost</b> learning track</td></tr>
-<tr><td align="center"><b>🧑‍💻 Open Source</b></td><td>Building toward first meaningful contributions to accessibility-focused OSS repos</td></tr>
-<tr><td align="center"><b>🏆 Hackathons</b></td><td>Targeting <b>Smart India Hackathon</b> with SignBridge AI as a concept submission</td></tr>
-<tr><td align="center"><b>📚 Learning</b></td><td>Deepening CSS, JavaScript, AI, Computer Vision, Full Stack Development, and Data Structures & System Design</td></tr>
-<tr><td align="center"><b>🎓 Certifications</b></td><td>Google Cloud Skills Boost — in progress</td></tr>
+<tr><td width="20%" align="center"><b>Cloud</b></td><td>Actively pursuing the <b>Google Cloud Skills Boost</b> learning track</td></tr>
+<tr><td align="center"><b>Open Source</b></td><td>Building toward first meaningful contributions to accessibility-focused OSS repos</td></tr>
+<tr><td align="center"><b>Hackathons</b></td><td>Targeting <b>Smart India Hackathon</b> with SignBridge AI as a concept submission</td></tr>
+<tr><td align="center"><b>Learning</b></td><td>Deepening CSS, JavaScript, AI, Computer Vision, Full Stack Development, and Data Structures & System Design</td></tr>
+<tr><td align="center"><b>Certifications</b></td><td>Google Cloud Skills Boost — in progress</td></tr>
 </table>
 
-### 🗺️ Roadmap
+### Roadmap
 
 ```mermaid
 graph LR
@@ -345,18 +345,18 @@ graph LR
 <!-- ═══════════════════════════ GOALS ═══════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/chip.svg" width="22" valign="middle"/> Current Goals
 
-- [ ] 🤖 Build a working Computer Vision prototype
-- [ ] 🌍 Make first Open Source contribution
-- [ ] ☁️ Finish Google Cloud Skills Boost track
-- [ ] 🏆 Present at Smart India Hackathon
-- [ ] 💼 Land a Software Engineering Internship
+- [ ] Build a working Computer Vision prototype
+- [ ] Make first Open Source contribution
+- [ ] Finish Google Cloud Skills Boost track
+- [ ] Present at Smart India Hackathon
+- [ ] Land a Software Engineering Internship
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 <div align="center">
 
-## 💬 Developer Quote
+## Developer Quote
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=B79CED&center=true&vCenter=true&width=800&lines=%22Code+is+how+I+turn+empathy+into+something+that+ships.%22" alt="Quote: Code is how I turn empathy into something that ships."/>
 
@@ -378,7 +378,7 @@ graph LR
 ---
 
 <details>
-<summary><b>⚙️ Setup Notes (click to expand)</b></summary>
+<summary><b>Setup Notes (click to expand)</b></summary>
 
 ### 1. Repo requirements
 This README is designed for a **profile repo**: a repo named exactly `AmritaMalik` (matching the username), with this file at its root as `README.md`.
@@ -415,7 +415,8 @@ Runs [lowlighter/metrics](https://github.com/lowlighter/metrics) and commits `as
 ### 6. Stats services — why some cards were broken
 - `github-readme-stats.vercel.app` (the public shared instance) has had repeated outages and rate-limit downtime; its own maintainers now point people to the actively-maintained fork, **GitHub Stats Extended** (`github-stats-extended.vercel.app`), which this README now uses for both the stats card and top languages card.
 - `github-readme-streak-stats.herokuapp.com` is a dead link — Heroku shut down its free tier in November 2022, so any `.herokuapp.com` widget URL from an older template will never load. This README now uses the current official domain, `streak-stats.demolab.com`.
-- `github-profile-trophy.vercel.app` and `github-readme-activity-graph.vercel.app` are free hosted services that can occasionally be rate-limited under load; this is usually temporary and clears on its own. Self-hosting either is the long-term fix if it keeps happening.
+- `github-profile-trophy.vercel.app` (the default shared instance) was confirmed down when tested, so this README now points to `github-profile-trophy-winning.vercel.app` — a community-hosted mirror the project's own maintainer lists specifically for load-balancing when the main instance is overloaded. If that one ever goes down too, other listed mirrors are `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-fork-two.vercel.app`, and `github-profile-trophy-kannan.vercel.app` — just swap the domain, keep the same query string.
+- `github-readme-activity-graph.vercel.app` is a free hosted service that can occasionally be rate-limited under load; this is usually temporary and clears on its own.
 
 ### 7. Repo links
 The SignBridge AI repo link and the "repo names" note in Featured Projects are placeholders — swap in your actual repo URLs once they exist so the buttons don't 404.
