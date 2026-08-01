@@ -296,17 +296,6 @@
 
 <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/chip.svg" width="22" valign="middle"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=AmritaMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/divider.svg" width="100%" alt=""/>
-
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/AmritaMalik/AmritaMalik/main/assets/chip.svg" width="22" valign="middle"/> Achievements & Roadmap
 
