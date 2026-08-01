@@ -47,7 +47,7 @@ class AmritaMalik:
         self.education   = "B.Tech CSE @ PIET, Panipat — 2nd Year"
         self.focus       = "Accessible AI • Computer Vision • Cloud"
         self.currently   = "Building SignBridge AI 🕶️"
-        self.location    = "Panipat, Haryana, India 🇮🇳"
+        self.location    = "Haryana, India 🇮🇳"
 
     def say_hi(self):
         print("Let's build something impactful together 🚀")
