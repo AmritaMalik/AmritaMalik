@@ -1,186 +1,148 @@
 <div align="center">
 
-# 👋 Hi, I'm Amrita Malik
+# Hi, I'm Amrita Malik 👋
 
 ### AI • Cloud • Full Stack Developer • Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+AI+Products+for+Real+World+Problems;Computer+Science+Student;Open+Source+Contributor;Cloud+%7C+AI+%7C+Web+Developer;Always+Learning+Always+Building" />
+> Building technology that creates real-world impact through AI, Cloud, and Web Development.
 
-<br>
-
+<p>
 <a href="https://github.com/AmritaMalik">
 <img src="https://img.shields.io/badge/GitHub-AmritaMalik-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amrita-malik-2007am/">
-<img src="https://img.shields.io/badge/LinkedIn-Amrita%20Malik-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Amrita%20Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://amrita-malik-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-8B5CF6?style=for-the-badge"/>
 </a>
 
-<a href="mailto:Codewithamrita@gmail.com">
-<img src="https://img.shields.io/badge/Email-Codewithamrita%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:codewithamrita@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-codewithamrita%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=AmritaMalik&style=for-the-badge&color=7B61FF"/>
+<img src="https://komarev.com/ghpvc/?username=AmritaMalik&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 💜 About Me
 
-I'm a **2nd Year Computer Science & Engineering (Hons.)** student at **PIET** who enjoys building technology that solves real-world problems.
+I'm a **2nd Year B.Tech Computer Science & Engineering (Hons.)** student at **Panipat Institute of Engineering & Technology (PIET)**.
 
-My interests lie in **Artificial Intelligence, Cloud Computing, Full Stack Development, Computer Vision, and IoT**. I enjoy turning ideas into practical software through hands-on projects and open-source collaboration.
+I enjoy creating software that combines **Artificial Intelligence, Cloud Computing, Computer Vision, IoT, and Web Development** to solve practical problems.
 
-- 💻 Technical Team Member
-- ☁️ Google Cloud Learner
-- 🤖 AI & Machine Learning Enthusiast
-- 🌐 Web Developer
-- 🔌 IoT Explorer
-- 🚀 Open Source Contributor
-- 🎯 Preparing for Software Engineering Internships
+I'm constantly learning, experimenting, and building projects that challenge me to become a better developer.
 
----
+### Currently
 
-# 🚀 Current Focus
-
-🕶️ SignBridge AI
-
-🌐 AWS Student Community Day Haryana Website
-
-☁️ Google Cloud Skill Boost
-
-💻 Open Source
-
-📚 Data Structures & Algorithms
+- 🕶️ Developing **SignBridge AI**, an AI-powered smart glasses project for sign language translation
+- ☁️ Learning through **Google Cloud Skill Boost**
+- 🌐 Contributing to the **AWS Student Community Day Haryana** website
+- 💻 Exploring Full Stack Development
+- 🚀 Contributing to Open Source projects
 
 ---
 
 # ⚡ Tech Stack
 
-## Languages
+### Languages
 
-<p>
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js"/>
+### Technologies
 
-</p>
+- Git
+- GitHub
+- Google Cloud
+- VS Code
+- TensorFlow
+- MediaPipe
+- OpenCV
 
-## Tools
+### Interests
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp"/>
-
-</p>
-
-## AI
-
-Python
-
-TensorFlow
-
-MediaPipe
-
-OpenCV
-
-Computer Vision
-
-Machine Learning
-
-## Hardware
-
-ESP32
-
-Arduino
-
-Raspberry Pi
-
-IoT
-
-3D Printing
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Cloud Computing
+- Full Stack Development
+- UI/UX Design
+- IoT
+- Accessibility Technology
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🕶️ SignBridge AI
 
-AI-powered smart glasses that translate sign language into text and speech while converting spoken language back into readable text.
+An AI-powered accessibility solution designed to help bridge communication between sign-language users and non-sign-language users.
 
-### Features
+### Highlights
 
-• AI Gesture Recognition
-
-• Computer Vision
-
-• Speech-to-Text
-
-• Text-to-Speech
-
-• Emergency SOS
-
-• Offline Processing
-
-• IoT Integration
-
-• Accessibility First
+- Computer Vision
+- AI Gesture Recognition
+- Text-to-Speech
+- Speech-to-Text
+- Emergency Communication
+- Embedded Hardware Integration
+- Accessibility-Focused Design
 
 ---
 
-## ☁️ AWS Student Community Day Haryana
+## ☁️ AWS Student Community Day Haryana Website
 
-Worked on the official event website as part of the technical team.
+Worked with the technical team to improve the official event website through development, collaboration, and GitHub contributions.
 
-Highlights
+---
 
-• UI Improvements
+## 🌐 Personal Portfolio
 
-• GitHub Collaboration
-
-• Website Development
-
-• Pull Requests
-
-• Documentation
+A responsive developer portfolio showcasing projects, technical skills, and achievements.
 
 ---
 
 ## 📊 Student Grade Calculator
 
-A modular C application that calculates student performance.
-
-Topics Used
-
-• Arrays
-
-• Functions
-
-• Loops
-
-• Conditional Statements
+A modular C application built to calculate student grades using core programming concepts.
 
 ---
 
-# 📜 Certifications
+# 🌱 Currently Learning
 
-Google Cloud Skill Boost
-
-GitHub Learning
-
-AWS Learning
-
-More Coming Soon...
+- Data Structures & Algorithms
+- React
+- Advanced JavaScript
+- Cloud Computing
+- AI & Machine Learning
+- Full Stack Development
+- Open Source Collaboration
 
 ---
 
-# 📈 GitHub Analytics
+# 🎯 Goals
+
+- Build impactful AI-powered applications
+- Become a skilled Full Stack Developer
+- Contribute consistently to Open Source
+- Earn Cloud Certifications
+- Participate in Hackathons
+- Secure a Software Engineering Internship
+- Continue building projects that solve real-world problems
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -190,19 +152,11 @@ More Coming Soon...
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=AmritaMalik&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
 
@@ -212,79 +166,19 @@ More Coming Soon...
 
 ---
 
-# 🏆 GitHub Trophies
+# 🤝 Let's Connect
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmritaMalik&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📌 Pinned Projects
-
-⭐ SignBridge AI
-
-⭐ AWS Student Community Day Website
-
-⭐ Portfolio Website
-
-⭐ Student Grade Calculator
-
-⭐ Drag & Drop ToDo
-
-⭐ Python Learning Repository
-
----
-
-# 🎯 2026 Goals
-
-✔ Master Data Structures & Algorithms
-
-✔ Become a Strong Full Stack Developer
-
-✔ Build Production-Level AI Projects
-
-✔ Contribute to Open Source Regularly
-
-✔ Earn Cloud Certifications
-
-✔ Secure a Software Engineering Internship
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:Codewithamrita@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amrita-malik-2007am/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/AmritaMalik">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://amrita-malik-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge"/>
-</a>
-
-</p>
+- 🌐 Portfolio: https://amrita-malik-portfolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/amrita-malik-2007am
+- 💻 GitHub: https://github.com/AmritaMalik
+- 📧 Email: codewithamrita@gmail.com
 
 ---
 
 <div align="center">
 
-## ⭐ Building technology that creates real-world impact.
+### "Learn. Build. Share. Repeat."
 
-*"First, solve the problem. Then, write the code."*
-
-Thanks for visiting! ⭐
+⭐ Thanks for visiting my profile!
 
 </div>
-
