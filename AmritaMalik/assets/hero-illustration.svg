@@ -1,0 +1,81 @@
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="hBg" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#251a4d"/>
+      <stop offset="100%" stop-color="#03040c"/>
+    </radialGradient>
+    <linearGradient id="glassPanel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39FF14"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="depth" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <circle cx="180" cy="180" r="175" fill="url(#hBg)"/>
+  <circle cx="180" cy="180" r="170" fill="none" stroke="#9D4EDD" stroke-opacity="0.3" stroke-width="1.5" stroke-dasharray="4 6"/>
+
+  <g fill="#39FF14" opacity="0.7">
+    <circle cx="55" cy="90" r="3"><animate attributeName="cy" values="90;70;90" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="305" cy="120" r="2.5"><animate attributeName="cy" values="120;140;120" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="75" cy="285" r="2"><animate attributeName="cy" values="285;265;285" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="295" cy="260" r="3"><animate attributeName="cy" values="260;280;260" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- glass laptop panel with real depth -->
+  <g filter="url(#depth)">
+    <rect x="112" y="148" width="136" height="100" rx="10" fill="url(#glassPanel)" stroke="#9D4EDD" stroke-width="1.6"/>
+  </g>
+  <rect x="128" y="160" width="104" height="75" rx="4" fill="#050014"/>
+  <rect x="128" y="160" width="104" height="14" rx="4" fill="#ffffff" opacity="0.06"/>
+
+  <g stroke="url(#neon)" stroke-width="2.2" stroke-linecap="round" opacity="0.9">
+    <line x1="136" y1="172" x2="182" y2="172"/>
+    <line x1="136" y1="182" x2="207" y2="182"/>
+    <line x1="136" y1="192" x2="165" y2="192"/>
+    <line x1="136" y1="202" x2="197" y2="202"/>
+    <line x1="136" y1="212" x2="150" y2="212"/>
+  </g>
+
+  <rect x="105" y="255" width="150" height="10" rx="4" fill="#2a2450" filter="url(#depth)"/>
+  <path d="M97 255 L263 255 L252 245 L108 245 Z" fill="#1a1440"/>
+
+  <!-- floating holographic neural net, elevated above the laptop like a projection -->
+  <g filter="url(#glow)">
+    <g stroke="#00E5FF" stroke-width="1.3" opacity="0.75">
+      <line x1="150" y1="118" x2="180" y2="86"/>
+      <line x1="150" y1="118" x2="180" y2="128"/>
+      <line x1="210" y1="118" x2="180" y2="86"/>
+      <line x1="210" y1="118" x2="180" y2="128"/>
+      <line x1="180" y1="86" x2="180" y2="55"/>
+      <line x1="180" y1="128" x2="150" y2="148"/>
+      <line x1="180" y1="128" x2="210" y2="148"/>
+    </g>
+    <g fill="#39FF14">
+      <circle cx="150" cy="118" r="5"/>
+      <circle cx="210" cy="118" r="5"/>
+      <circle cx="180" cy="86" r="5"/>
+      <circle cx="180" cy="128" r="5"/>
+      <circle cx="180" cy="55" r="6"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="148" r="4" fill="#00E5FF"/>
+      <circle cx="210" cy="148" r="4" fill="#00E5FF"/>
+    </g>
+    <!-- soft glass disc the hologram appears to float above -->
+    <ellipse cx="180" cy="150" rx="42" ry="8" fill="#39FF14" opacity="0.12"/>
+  </g>
+
+  <g fill="#2a2450" stroke="#7B2CBF" stroke-width="1.5" filter="url(#depth)">
+    <circle cx="180" cy="300" r="26"/>
+    <path d="M140 355 C140 320 160 302 180 302 C200 302 220 320 220 355 Z"/>
+  </g>
+  <path d="M168 292 Q180 302 192 292" stroke="#39FF14" stroke-width="2" fill="none" opacity="0.8"/>
+</svg>
